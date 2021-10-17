@@ -11,11 +11,6 @@
 *.obj
 *.elf
 
-# Deliverable PDFs for college assignment
-*.pdf
-*.jpg
-*.asta
-
 # Linker output
 *.ilk
 *.map
