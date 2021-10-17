@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1365999637 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"contador.h"
+	"ihm.h"
+	"senhas.h"
+	"sensores.h"
+	"sirene.h"
+	"timer.h"
+	"zonas.h"
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\contador.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"contador.h"
+
+1365991420 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\contador.h
+
+1365998584 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\ihm.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"ihm.h"
+
+1365998425 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\ihm.h
+
+1365995569 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\definicoes_sistema.h
+
+1365991420 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sensores.h
+
+1365991625 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sirene.h
+
+1365999144 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\timer.h
+
+1365991420 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\zonas.h
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\senhas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"senhas.h"
+
+1365994940 c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\senhas.h
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sensores.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"sensores.h"
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\sirene.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"sirene.h"
+
+1365999416 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\timer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"definicoes_sistema.h"
+	"timer.h"
+
+1365995635 source:c:\users\marcos\google drive\marcos\poli\pmr2440\projeto_alarme_eletronico_2013\alarme\zonas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"zonas.h"
+

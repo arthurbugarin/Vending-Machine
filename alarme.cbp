@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="alarme" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/alarme" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/alarme" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="contador.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contador.h" />
+		<Unit filename="definicoes_sistema.h" />
+		<Unit filename="ihm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ihm.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="senhas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="senhas.h" />
+		<Unit filename="sensores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sensores.h" />
+		<Unit filename="sirene.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sirene.h" />
+		<Unit filename="timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="timer.h" />
+		<Unit filename="zonas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="zonas.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
